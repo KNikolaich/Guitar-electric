@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "7.0.11+dfsg-1build4"
     },
-    "CreationDate": "2026-10-06T23:37:00+03:00"
+    "CreationDate": "2026-10-07T10:43:53+03:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "guitar_preamp",
       "GUID": "67756974-6172-45f7-9072-65616d702e6b",
-      "Revision": "1.0"
+      "Revision": "3"
     },
     "Size": {
       "X": 70.1,
